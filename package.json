@@ -38,7 +38,7 @@
     "countries-list": "2.4.2",
     "documentation": "9.3.0",
     "gatsby": "2.0.104",
-    "gatsby-mdx": "0.1.4",
+    "gatsby-mdx": "0.6.2",
     "gatsby-plugin-google-analytics": "2.0.12",
     "gatsby-plugin-manifest": "2.0.15",
     "gatsby-plugin-offline": "2.0.22",
